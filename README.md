@@ -1,4 +1,4 @@
-# CODSOFT-JAVA-DEVELOPMENT-TASK 1
+# ALFIDO TECH -TASK 1
 Repository showcasing my completed projects and tasks during my Java Development internship at ALFIDO TECH. 
 
 ## Task 1
